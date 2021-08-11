@@ -1,2 +1,2 @@
 # moduleE2_homework
-SkillFactory exercises
+SkillFactory ES6 exercises
